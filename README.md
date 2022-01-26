@@ -1,8 +1,8 @@
 # Simple Todo List API
 
-Uses Django's built in sqlite database
-
 Supports standard CRUD operations for managing database through a REST API
+Utilizes function based api views
+Uses Django's built in sqlite database
 
 ## Usage
 ```
